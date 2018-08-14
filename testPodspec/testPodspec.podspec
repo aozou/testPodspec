@@ -1,6 +1,6 @@
 @version = "1.0.0"
 Pod::Spec.new do |s|
-    s.name = "testPodspec"
+    s.name = "testPodspec_HD123"
     s.version = @version
     s.summary = "简述:测试App"
     s.description = "描述:测试信息,不可描述"
