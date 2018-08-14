@@ -12,5 +12,6 @@
 
 -(void)onShow;
 -(void)onOpen;
+-(void)onClose;
 
 @end
