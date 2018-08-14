@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
     s.author = {"aozou" => "1527955895@qq.com"}
     s.ios.deployment_target = '8.0'
     s.source = {:git => "https://github.com/aozou/testPodspec.git",:tag => "v#{s.version}"}
-    s.source_files = '#{s.name}/Codes/*/.{h,m}'
+    s.source_files = '#{s.name}/Codes/*.{h,m}'
     s.requires_arc = true
     s.framework = "UIKit"
 end
